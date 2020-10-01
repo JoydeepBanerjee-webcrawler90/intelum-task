@@ -1,3 +1,3 @@
 # intelum-task
 Machine Test Result
-http://intelumblog.hstn.me
+http://intlumblog.hstn.me
